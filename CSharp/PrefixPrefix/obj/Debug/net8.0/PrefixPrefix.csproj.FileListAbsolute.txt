@@ -1,0 +1,15 @@
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.AssemblyInfoInputs.cache
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.AssemblyInfo.cs
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.csproj.CoreCompileInputs.cache
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.sourcelink.json
+D:\Projects\code-practice\CSharp\PrefixPrefix\bin\Debug\net8.0\PrefixPrefix.exe
+D:\Projects\code-practice\CSharp\PrefixPrefix\bin\Debug\net8.0\PrefixPrefix.deps.json
+D:\Projects\code-practice\CSharp\PrefixPrefix\bin\Debug\net8.0\PrefixPrefix.runtimeconfig.json
+D:\Projects\code-practice\CSharp\PrefixPrefix\bin\Debug\net8.0\PrefixPrefix.dll
+D:\Projects\code-practice\CSharp\PrefixPrefix\bin\Debug\net8.0\PrefixPrefix.pdb
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.dll
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\refint\PrefixPrefix.dll
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.pdb
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\PrefixPrefix.genruntimeconfig.cache
+D:\Projects\code-practice\CSharp\PrefixPrefix\obj\Debug\net8.0\ref\PrefixPrefix.dll

@@ -11,14 +11,14 @@ Bob sẽ dùng một cái máy cưa đặc biệt, nó có thể cắt một lư
 Đầu tiên, anh ấy sẽ chọn một độ cao cố định là H, sau đó dùng máy cưa đặc biệt
 để cắt một đường theo độ cao H này trên các cây có độ cao lớn H.
 
-Ví dụ : các cây có độ cao lần lượt là: 10,16,17,15. Chọn H bằng 15.
+Ví dụ: Các cây có độ cao lần lượt là: 10,16,17,15. Chọn H bằng 15.
 Do đó, cây thứ 2,3 sẽ được cắt và tổng độ dài các khúc gỗ thu được là 1+2=3.
 Cho độ cao của các cây trong rừng và giá trị L. (Tổng độ dài của các khúc gỗ cần).
 
 Hãy giúp Bob tìm giá trị lớn nhất của H thỏa mãn rằng Bob chỉ cần
 dùng máy cắt đúng một lượtđể thu được số các khúc gỗ cần thiết.
 
-Chú ý : Tổng độ dài các khúc gỗ có thỏa mãn có thể lớn hơn L (hay nói cách khác L ≤ tổng độ dài).
+Chú ý: Tổng độ dài các khúc gỗ có thỏa mãn có thể lớn hơn L (hay nói cách khác L ≤ tổng độ dài).
 
 Đầu vào
 Dòng đầu tiên chứa một số nguyên mô tả số lượng cây N (1≤N≤10^6)
@@ -44,8 +44,55 @@ Output 01
 
 using System;
 
+// Input dong 1
 int.TryParse(Console.ReadLine(), out int N);
+
+// Input dong 2
 long.TryParse(Console.ReadLine(), out long L);
 
-string[] arr = Console.ReadLine().Split(' ');
-long[] trees = Array.ConvertAll(arr, str => long.Parse(str));
+// Input dong 3
+string[] input3 = Console.ReadLine().Split(' ');
+long[] trees = Array.ConvertAll(input3, long.Parse);
+
+// Sap xep theo thu tu giam dan
+Array.Sort(trees);
+
+// Binary search
+long left = 0, right = trees[^1];
+long result = 0;
+
+while (left <= right)
+{
+    long mid = left + (right - left) / 2;
+    long length = 0;
+
+    foreach (long i in trees)
+    {
+        if (i > mid) length += i - mid;
+    }
+
+    if (length >= L)
+    {
+        result = mid;
+        left = mid + 1;
+    }
+    else right = mid - 1;
+}
+
+Console.WriteLine(result);
+
+// long result = 0;
+// for (int i = 0; i < N; i++)
+// {
+//     long total_length = 0;
+//     for (int u = 0; u < N; u++)
+//     {
+//         if (trees[i] < trees[u])
+//         {
+//             total_length += trees[u] - trees[i];
+//         }
+//     }
+//     if (total_length >= L) result = trees[i];
+// }
+
+// Console.WriteLine(result);

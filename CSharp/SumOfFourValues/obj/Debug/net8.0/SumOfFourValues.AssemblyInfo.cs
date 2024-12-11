@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfFourValues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d945fcc50d3f5a340a5b5f41a76e1116a5159abe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897b476d5431f224e5b36332a900760cc564802b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfFourValues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfFourValues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
