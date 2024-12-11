@@ -1,0 +1,15 @@
+D:\Projects\code-practice\CSharp\SumOfFourValues\bin\Debug\net8.0\SumOfFourValues.exe
+D:\Projects\code-practice\CSharp\SumOfFourValues\bin\Debug\net8.0\SumOfFourValues.deps.json
+D:\Projects\code-practice\CSharp\SumOfFourValues\bin\Debug\net8.0\SumOfFourValues.runtimeconfig.json
+D:\Projects\code-practice\CSharp\SumOfFourValues\bin\Debug\net8.0\SumOfFourValues.dll
+D:\Projects\code-practice\CSharp\SumOfFourValues\bin\Debug\net8.0\SumOfFourValues.pdb
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.AssemblyInfoInputs.cache
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.AssemblyInfo.cs
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.csproj.CoreCompileInputs.cache
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.sourcelink.json
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.dll
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\refint\SumOfFourValues.dll
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.pdb
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\SumOfFourValues.genruntimeconfig.cache
+D:\Projects\code-practice\CSharp\SumOfFourValues\obj\Debug\net8.0\ref\SumOfFourValues.dll

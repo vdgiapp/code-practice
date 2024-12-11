@@ -1,0 +1,15 @@
+D:\Projects\code-practice\CSharp\ChatCayXayNha\bin\Debug\net8.0\ChatCayXayNha.exe
+D:\Projects\code-practice\CSharp\ChatCayXayNha\bin\Debug\net8.0\ChatCayXayNha.deps.json
+D:\Projects\code-practice\CSharp\ChatCayXayNha\bin\Debug\net8.0\ChatCayXayNha.runtimeconfig.json
+D:\Projects\code-practice\CSharp\ChatCayXayNha\bin\Debug\net8.0\ChatCayXayNha.dll
+D:\Projects\code-practice\CSharp\ChatCayXayNha\bin\Debug\net8.0\ChatCayXayNha.pdb
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.AssemblyInfoInputs.cache
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.AssemblyInfo.cs
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.csproj.CoreCompileInputs.cache
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.sourcelink.json
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.dll
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\refint\ChatCayXayNha.dll
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.pdb
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ChatCayXayNha.genruntimeconfig.cache
+D:\Projects\code-practice\CSharp\ChatCayXayNha\obj\Debug\net8.0\ref\ChatCayXayNha.dll
