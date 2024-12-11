@@ -54,7 +54,7 @@ long.TryParse(Console.ReadLine(), out long L);
 string[] input3 = Console.ReadLine().Split(' ');
 long[] trees = Array.ConvertAll(input3, long.Parse);
 
-// Sap xep theo thu tu giam dan
+// Sap xep theo thu tu tang dan
 Array.Sort(trees);
 
 // Binary search
